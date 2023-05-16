@@ -44,12 +44,12 @@ const projects = [
   },
   {
     id: 4,
-    title: "Note Taker",
+    title: "User-Chats",
     languages: "JavaScript, HTML, CSS",
     image: "image-5.jpg",
-    description: "Write extensive notes and keep track of tasks, then save them for later reading or deletion.",
-    repo: "https://github.com/taniachahal97/Note-Taker",
-    live: "https://pure-savannah-11011.herokuapp.com/",
+    description: "This chat application allows users to post their messages in a chat room upon successful login",
+    repo: "https://github.com/taniachahal97/social-network-app",
+    live: "https://damp-lake-71449.herokuapp.com/",
   },
   {
     id: 5,
